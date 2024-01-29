@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Trader Assistant**
 
-- 🌱 I’m currently learning **PHP , laravel **
+- 🌱 I’m currently learning **PHP , laravel**
 
 - 👨‍💻 All of my projects are available at [rammin.ir](rammin.ir)
 
