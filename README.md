@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on **Trader Assistant**
 
-- 🌱 I’m currently learning **PHP , laravel**
+- 🌱 I’m currently learning **PHP , laravel and also JavaScript**
 
-- 👨‍💻 All of my projects are available at [rammin.ir](rammin.ir)
+- 👨‍💻 All of my projects are available at [rammin.ir](ramiin.online)
 
 - 💬 Ask me about **Flutter , Dart**
 
