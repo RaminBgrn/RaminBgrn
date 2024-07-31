@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **PHP , laravel and also JavaScript**
 
-- 👨‍💻 All of my projects are available at [ramiin.online](ramiin.online)
+- 👨‍💻 All of my projects are available at [ramiin.online](https://ramiin.online)
 
 - 💬 Ask me about **Flutter , Dart**
 
