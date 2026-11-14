@@ -32,28 +32,59 @@ class Ramin extends Developer {
 
 ## 🌟 Featured projects
 
-<div align="center">
-
-[![image-watermarker](https://github-readme-stats.vercel.app/api/pin/?username=RaminBgrn&repo=image-watermarker&theme=tokyonight)](https://github.com/RaminBgrn/image-watermarker)
-[![kivi_vpn](https://github-readme-stats.vercel.app/api/pin/?username=RaminBgrn&repo=kivi_vpn&theme=tokyonight)](https://github.com/RaminBgrn/kivi_vpn)
-
-[![home_widget](https://github-readme-stats.vercel.app/api/pin/?username=RaminBgrn&repo=home_widget&theme=tokyonight)](https://github.com/RaminBgrn/home_widget)
-[![flutter_router_kit](https://github-readme-stats.vercel.app/api/pin/?username=RaminBgrn&repo=flutter_router_kit&theme=tokyonight)](https://github.com/RaminBgrn/flutter_router_kit)
-
-[![researcher-chatbot](https://github-readme-stats.vercel.app/api/pin/?username=RaminBgrn&repo=researcher-chatbot&theme=tokyonight)](https://github.com/RaminBgrn/researcher-chatbot)
-[![crm-workflow](https://github-readme-stats.vercel.app/api/pin/?username=RaminBgrn&repo=crm-workflow&theme=tokyonight)](https://github.com/RaminBgrn/crm-workflow)
-
-</div>
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/RaminBgrn/image-watermarker">🖼️ image-watermarker</a></h3>
+<p>Add watermarks to images — my most-starred project</p>
+<img src="https://img.shields.io/github/stars/RaminBgrn/image-watermarker?style=flat&color=36BCF7" /> <img src="https://img.shields.io/github/forks/RaminBgrn/image-watermarker?style=flat&color=36BCF7" />
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/RaminBgrn/kivi_vpn">🔐 kivi_vpn</a></h3>
+<p>V2Ray VPN client built with Flutter</p>
+<img src="https://img.shields.io/github/stars/RaminBgrn/kivi_vpn?style=flat&color=36BCF7" /> <img src="https://img.shields.io/github/forks/RaminBgrn/kivi_vpn?style=flat&color=36BCF7" />
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/RaminBgrn/home_widget">🧩 home_widget</a></h3>
+<p>Home-screen widgets for Flutter apps</p>
+<img src="https://img.shields.io/github/stars/RaminBgrn/home_widget?style=flat&color=36BCF7" /> <img src="https://img.shields.io/github/forks/RaminBgrn/home_widget?style=flat&color=36BCF7" />
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/RaminBgrn/flutter_router_kit">🧭 flutter_router_kit</a></h3>
+<p>A routing toolkit for Flutter</p>
+<img src="https://img.shields.io/github/stars/RaminBgrn/flutter_router_kit?style=flat&color=36BCF7" /> <img src="https://img.shields.io/github/forks/RaminBgrn/flutter_router_kit?style=flat&color=36BCF7" />
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/RaminBgrn/researcher-chatbot">🤖 researcher-chatbot</a></h3>
+<p>LLM researcher chatbot with live evals</p>
+<img src="https://img.shields.io/github/stars/RaminBgrn/researcher-chatbot?style=flat&color=36BCF7" /> <img src="https://img.shields.io/github/forks/RaminBgrn/researcher-chatbot?style=flat&color=36BCF7" />
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/RaminBgrn/crm-workflow">🗂️ crm-workflow</a></h3>
+<p>Modular CRM workflow: classification + RAG + ticketing</p>
+<img src="https://img.shields.io/github/stars/RaminBgrn/crm-workflow?style=flat&color=36BCF7" /> <img src="https://img.shields.io/github/forks/RaminBgrn/crm-workflow?style=flat&color=36BCF7" />
+</td>
+</tr>
+</table>
 
 ## 📊 Numbers
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RaminBgrn&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://streak-stats.demolab.com?user=RaminBgrn&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaminBgrn&theme=tokyonight" width="95%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaminBgrn&theme=tokyo-night&hide_border=true" width="95%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RaminBgrn&theme=tokyonight" height="190" />
+  <img src="https://streak-stats.demolab.com?user=RaminBgrn&theme=tokyonight&hide_border=true" height="190" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RaminBgrn&theme=tokyonight" height="190" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RaminBgrn&theme=tokyonight" height="190" />
 </p>
 
 ## 🤝 Let's connect
